@@ -1,8 +1,8 @@
 # Counting Crowds in Bad Weather
 
-This is the repository that contains source code for the [AWCCNet]([awccnet.github.io](https://awccnet.github.io)).
+This is the repository that contains source code for the [AWCC-Net](https://awccnet.github.io/)
 
-If you find AWCCNet useful for your work please cite:
+If you find AWCCNet useful for your work please cite: 
 ```
 @inproceedings{huang2023counting,
   title={Counting Crowds in Bad Weather},
